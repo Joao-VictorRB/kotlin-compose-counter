@@ -51,7 +51,3 @@ app/src/main/java/com/exemplo/contador/
 3. Rode no emulador ou em um dispositivo físico com Android 7.0 (API 24) ou
    superior.
 
-## Captura de tela
-
-_(adicione aqui a screenshot do app rodando antes de entregar, por exemplo:
-`![Contador rodando](screenshot.png)`)_
